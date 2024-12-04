@@ -4,4 +4,4 @@ The goal of this document is to provide a template in R that can calculate the s
 
 **Programming Language**: R | **Packages**: ggplot2, ggthemes  
 
-Source and inspiration: HyLown Consulting LLC (2022), https://powerandsamplesize.com/
+**Source and inspiration**: HyLown Consulting LLC (2022), https://powerandsamplesize.com/
